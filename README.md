@@ -5,7 +5,7 @@ Launch a [Spark Core](http://spark.io) powered ballista or catapult missile at y
 
 ![ballista1](images/ballista1.jpg)
 
-![catapult_and_ballista2](images/catapult_and_ballista2.jpg)
+![catapult_and_ballista2](images/catapult_and_ballista2.png)
 
 How to Use
 ---
