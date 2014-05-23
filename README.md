@@ -19,5 +19,7 @@ Provided you have a [ballista](http://www.em-labs.com/collections/all/products/t
 
 Tap the watch buttons and watch the missiles fly.
 
+Video:
 
 
+[![Alt text for your video](http://img.youtube.com/vi/816AkYSDr8w/0.jpg)](http:/youtube.com/watch?v=816AkYSDr8w)
